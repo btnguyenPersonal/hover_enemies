@@ -1,0 +1,20 @@
+<Entity name="$animal_fireskull">
+	<UIInfoComponent
+		_tags="enabled_in_world"
+		name="$animal_fireskull">
+	</UIInfoComponent>
+  
+	<Base file="data/entities/animals/fireskull.xml" >
+		<DamageModelComponent
+			hp="0.4"
+			>
+		</DamageModelComponent>
+		
+		<SpriteComponent 
+			image_file="data/enemies_gfx/fireskull.xml" 
+			>
+		</SpriteComponent> 
+	</Base>
+
+</Entity>
+

@@ -1,0 +1,7 @@
+<Entity tags="polymorphed_cessation" name="$animal_player" >
+    <UIInfoComponent
+		_tags="enabled_in_world"
+		name="$animal_player">
+	</UIInfoComponent>
+	
+</Entity>

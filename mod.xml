@@ -1,0 +1,6 @@
+<Mod
+	name="Hover Enemies"
+	description="Allows you to hover over enemies and see their name"
+	request_no_api_restrictions="0" 
+> 
+</Mod>

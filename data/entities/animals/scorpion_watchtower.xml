@@ -1,0 +1,14 @@
+<Entity tags="mortal,prey" name="$animal_scorpion">
+	<UIInfoComponent
+		_tags="enabled_in_world"
+		name="$animal_scorpion">
+	</UIInfoComponent>
+  
+	<Base file="data/entities/animals/scorpion.xml" >
+	    <CameraBoundComponent
+	        max_count="30"
+	    ></CameraBoundComponent>
+	</Base>
+
+</Entity>
+

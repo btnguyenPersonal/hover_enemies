@@ -1,0 +1,16 @@
+<Entity tags="mortal,hittable,homing_target,wand_ghost,this_is_sampo" name="$animal_wand_ghost">
+	<UIInfoComponent
+		_tags="enabled_in_world"
+		name="$animal_wand_ghost">
+	</UIInfoComponent>
+
+	<Base file="data/entities/animals/wand_ghost_charmed.xml" >
+		<CameraBoundComponent
+			_enabled="0"
+			max_count="1000"
+			distance="160000">
+		</CameraBoundComponent>
+	</Base>
+ 
+
+</Entity>
